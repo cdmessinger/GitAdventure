@@ -1,0 +1,43 @@
+1. Installation 
+
+- I installed it
+
+2. Configuration 
+
+- I set up my username and email
+
+
+3. Initialization 
+
+- I clicked file --> new repository and made a repository on my computer named GitAdventure
+
+- I opened the folder on my computer, per the request of the assignment.
+
+
+4. Staging and Committing
+
+- I made a file named journey.txt with the phrase "Starting my Git journey" inside of it.
+- I reopened GitHub Desktop and verified that journey.txt was staged and committed
+
+5. Deletion:
+
+- I made a file named temp.txt and put inside it "This file is meant to be deleted."
+- I staged and committed this file
+- I deleted the file on my computer and staged and committed the changes in GitHub Desktop.
+
+6.) Renaming:
+- I renamed journey.txt to adventure.txt and changed its contents.
+- GitHub has recognized that journey.txt does not exist anymore and that adventure.txt does with the proper content inside of it.
+- I staged and committed the changed
+
+
+7.) Ignoring Files
+- created a file named .gitignore with "*.log" inside to ignore .log files. I staged and committed it,
+- I created a test.log file and GitHub Desktop successfully ignored it.
+
+8.) Diving Deeper
+- I updated the contents of adventure.txt.
+- I saw the changes and staged and committed them.
+
+9.) History and Restoration
+- I viewed the history changes, played around and figured the best way to revert the change was to manually do it and recommit the new file. i just copy and pasted the old text into the document and staged/committed it.
